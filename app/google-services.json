@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668570299052",
+    "firebase_url": "https://clinger-ba8ca.firebaseio.com",
+    "project_id": "clinger-ba8ca",
+    "storage_bucket": "clinger-ba8ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668570299052:android:52b1d08090623530f50d09",
+        "android_client_info": {
+          "package_name": "com.example.clinger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668570299052-d5dtjs8mku4makh3areci7r7m2ivpm5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clinger",
+            "certificate_hash": "476a0889f4878c2258f30e6f89eb486a37e9c418"
+          }
+        },
+        {
+          "client_id": "668570299052-onm2fd9bhak0cuh7qrgnp0as9bnbmnkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZsvywNysxFQD5DJ4seymx_u9X1JFjf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668570299052-onm2fd9bhak0cuh7qrgnp0as9bnbmnkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

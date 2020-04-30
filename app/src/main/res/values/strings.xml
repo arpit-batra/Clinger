@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Clinger</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="logout">LogOut</string>
+    <string name="need_a_new_account">Need A new Account</string>
+    <string name="need_a_new_account_caps">NEED A NEW ACCOUNT</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="login_to_your_account">Login to your Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_chats_page">Welcome to chats page</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="account_settings">Account Settings</string>
+</resources>
